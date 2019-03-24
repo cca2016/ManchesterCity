@@ -30,7 +30,12 @@ class Header extends Component {
                             />
                         </div>  
                     </div>
-
+                    <Link to="/sign_in">
+                        <Button color="inherit">Login</Button>
+                    </Link>
+                    <Link to="/dashboard">
+                        <Button color="inherit">Dashboard</Button>
+                    </Link>
                     <Link to="/the_team">
                         <Button color="inherit">The team</Button>
                     </Link>
