@@ -3,7 +3,7 @@ Full stack web application using React along with Firebase/Firestore.
 ### Published on: https://m-city-30f76.firebaseapp.com/  
 ### The Website
 #### Login in instruction:
->>> **username: abc@gamil.com**  
+>>> **username: abc@gmail.com**  
 >>> ***password: 123456*** 
 ### Screenshots: 
 ![Website](https://github.com/cca2016/ManchesterCity/blob/master/Index.jpeg)
